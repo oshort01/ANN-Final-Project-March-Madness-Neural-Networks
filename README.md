@@ -5,9 +5,9 @@ Link to Blog Post: https://medium.com/@owen.short_11894/march-madness-neural-net
 
 Link to Blog Figures: 
 
-[![Baseline Accuracy](blog_figures/Baseline_Accuracy.png)]()
-[![Tensorflow Confusion Matrix](blog_figures/Tensorflow_Confusion_Matrix.png)]()
-[![Tensorflow Model Accuracy](blog_figures/Tensorflow_Model_Accuracy.png)]()
-[![sklearn Confusion Matrix](blog_figures/sklearn_Confusion_Matrix.png)]()
-[![sklearn Model Accuracy](blog_figures/sklearn_Model_Accuracy.png)](https://github.com/username/my-repo/blob/main/main.ipynb#L150)
+[![Baseline Accuracy](blog_figures/Baseline_Accuracy.png)](https://github.com/willtaggard/ANN-Final-Project-March-Madness-Neural-Networks/blob/main/Final_Neural_Network_Models.ipynb#L)
+[![Tensorflow Confusion Matrix](blog_figures/Tensorflow_Confusion_Matrix.png)](https://github.com/willtaggard/ANN-Final-Project-March-Madness-Neural-Networks/blob/main/Final_Neural_Network_Models.ipynb#L)
+[![Tensorflow Model Accuracy](blog_figures/Tensorflow_Model_Accuracy.png)](https://github.com/willtaggard/ANN-Final-Project-March-Madness-Neural-Networks/blob/main/Final_Neural_Network_Models.ipynb#L)
+[![sklearn Confusion Matrix](blog_figures/sklearn_Confusion_Matrix.png)](https://github.com/willtaggard/ANN-Final-Project-March-Madness-Neural-Networks/blob/main/Final_Neural_Network_Models.ipynb#L)
+[![sklearn Model Accuracy](blog_figures/sklearn_Model_Accuracy.png)](https://github.com/willtaggard/ANN-Final-Project-March-Madness-Neural-Networks/blob/main/Final_Neural_Network_Models.ipynb#L)
 
